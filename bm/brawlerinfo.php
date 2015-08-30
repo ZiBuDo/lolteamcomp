@@ -419,7 +419,7 @@ error_reporting(0);
 									<!-- Inner Page Title // Heading -->
 									<h2>Brawler Info</h2>
 									<!-- Paragraph -->
-									<p>Black Market Brawler is a new mode in League of Legends. Check a category for more information on any of the brawlers or upgrades.</p>
+									<p>Black Market Brawlers is a new mode in League of Legends. Check a category for more information on any of the brawlers or upgrades.</p>
 								</div>
 								<!-- Sidebar Links -->
 								<div class="sidebar-link col-disable">
@@ -448,8 +448,7 @@ error_reporting(0);
 											<div id="collapseOne" class="panel-collapse collapse in">
 												<!-- faq details -->
 												<div class="panel-body br-lblue">
-													<p>There are four unique brawlers: Ironback, Razorfin, Plundercrab, and Ocklepod. Each brawler has its own unique strengths and weaknesses. The brawlers of Black Market Brawlers can also be upgraded to become stronger or tankier. Players can also upgrade their brawler's ability which allows them to act in unique fashions.</p>
-												</div>
+													<p>There are four unique brawlers: tanky Ironbacks, highly-damaging Razorfins, sieging Plundercrabs, and support-oriented Ocklepods. Each brawler has its own unique strengths and weaknesses and can be upgraded to become stronger or tankier. Players can also upgrade their brawlers’ abilities, which grants them unique powers.</p></div>
 											</div>
 										</div>
 										<div class="panel panel-default">
