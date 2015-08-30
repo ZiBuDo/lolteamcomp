@@ -1,5 +1,0 @@
-[30-Aug-2015 03:50:31 America/New_York] PHP Warning:  max(): Array must contain at least one element in /home/spooldze/public_html/lolteamcomp/bm/duosearch.php on line 29
-[30-Aug-2015 03:50:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/spooldze/public_html/lolteamcomp/bm/duosearch.php:29) in /home/spooldze/public_html/lolteamcomp/bm/duosearch.php on line 63
-[30-Aug-2015 03:50:40 America/New_York] PHP Warning:  max(): Array must contain at least one element in /home/spooldze/public_html/lolteamcomp/bm/duosearch.php on line 29
-[30-Aug-2015 03:50:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/spooldze/public_html/lolteamcomp/bm/duosearch.php:29) in /home/spooldze/public_html/lolteamcomp/bm/duosearch.php on line 63
-[30-Aug-2015 03:53:35 America/New_York] PHP Warning:  max(): Array must contain at least one element in /home/spooldze/public_html/lolteamcomp/bm/duochamp.php on line 756
