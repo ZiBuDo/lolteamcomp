@@ -2,11 +2,20 @@
 Analyzes Team Compositions, Duo Compositions, Brawler Compositions, and Item Compositions across a team.
 
 There is another readme in the blackmarket folder that explains the server side process.
+
+Concept: 
+
+Most other League of Legends Fan sites or Statistic sites focus mainly on the idea of a singluar champion, singular item, or an item build on a champion. LoL Team Comp's objective is to focus on team compositions, duo champion combinations, brawler compositions, and item compositions across a team. There is an enormous amount of possible team comps, a large amount of brawler comps, and many possible item duos across a team. This creates a difficult task when it comes to tracking all of this information; however, it is possible to see the synergy of two champions in the duo combos section of the site. The Duo compositions also show 5-man compositions that have been played with that duo. The 5-man compositions are usually pretty bare in the statistics section because of the limit of 100k match IDS; however, this idea is being adapted into a larger scale site. Brawlers are limited to 5 man teams where we can see how 5 razorfins may affect the win rate of the match. Then users can check the razorfin and see the best build path for upgrades for those razorfins. The new items with their new unique interactions are analyzed when we check their synergies across a team. The site allows users to see item duos that had the most success and derive the implication of that item combo.
+
+It is important to note that win rates derived from these statistics are interesting to see such as Zilean and Karthus having a high winrate in most categories where a player may speculate that this combo is deadly because of the Revive and After-death combo of this duo.
+
 You will need to: Get an API key from the Riot Games Developer site.
   https://developer.riotgames.com/
+  
 Create a file in blackmarket folder with your api key pasted in as plain text. Name file apikey.txt.
-Note: this project was made using a developer key which has a higher request rate, it may be necessary to modify sleep values
-  in files in /blackmarket/ with naming pattern m(region).php such as mna.php where the script sleeps for 429 errors.
+
+Note: this project was made using a developer key which has a higher request rate, it may be necessary to modify sleep values in files in /blackmarket/ with naming pattern m(region).php such as mna.php where the script sleeps for 429 errors.
+
 
 Tech Stack
 
