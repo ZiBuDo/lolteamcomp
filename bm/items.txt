@@ -1,0 +1,105 @@
+{
+    "3652": {
+        "id": 3652,
+        "key": "3652",
+        "name": "Typhoon Claws",
+		"title": "That is not the pounding of the rain"
+    },
+    "3245": {
+        "id": 3245,
+        "key": "3245",
+        "name": "Enchantment: Teleport",
+		"title": "Teleport to target allied object"
+    },
+    "3433": {
+        "id": 3433,
+        "key": "3433",
+        "name": "Lost Chapter",
+		"title": "+20% Cooldown Reduction"
+    },
+    "3434": {
+        "id": 3434,
+        "key": "3434",
+        "name": "Pox Arcana",
+		"title": "Wealth, land, secrets, love; how little they cherish when their bodies betray them"
+    },
+    "0": {
+        "id": 0,
+        "key": "0",
+        "name": "None",
+		"title": "Nothing Bought"
+    },
+	"3431": {
+        "id": 3431,
+        "key": "3431",
+        "name": "Netherstride Grimoire",
+		"title": "Walking our path, you make fast progress"
+    },
+    "3430": {
+        "id": 3430,
+        "key": "3430",
+        "name": "Rite of Ruin",
+		"title": "When all their works have crumbled, their hearts will be laid bare"
+    },
+    "3150": {
+        "id": 3150,
+        "key": "3150",
+        "name": "Mirage Blade",
+		"title": "Shurimans exploit every aspect of the desert"
+    },
+    "3829": {
+        "id": 3829,
+        "key": "3829",
+        "name": "Tricksters Glass",
+		"title": "Faces can not but lie"
+    },
+    "3840": {
+        "id": 3840,
+        "key": "3840",
+        "name": "Globe of Trust",
+		"title": "Theft is better with accomplices"
+    },
+	"3844": {
+        "id": 3844,
+        "key": "3844",
+        "name": "Murksphere",
+		"title": "Profit makes fast friends"
+    },
+    "3841": {
+        "id": 3841,
+        "key": "3841",
+        "name": "Swindlers Orb",
+		"title": "Partners in crime"
+    },
+    "3745": {
+        "id": 3745,
+        "key": "3745",
+        "name": "Puppeteer",
+		"title": "Perhaps reading this wasnt your idea"
+    },
+	 "3744": {
+        "id": 3744,
+        "key": "3744",
+        "name": "Staff of Flowing Water",
+		"title": "News travels fast along the Ionian riverside"
+    },
+	"3742": {
+        "id": 3742,
+        "key": "3742",
+        "name": "Dead Mans Plate",
+		"title": "Theres only one way youll get this armor from me... - forgotten namesake"
+    },
+    "3911": {
+        "id": 3911,
+        "key": "3911",
+        "name": "Martyrs Gambit",
+		"title": "Battle is not a test of strength. It is a test of will."
+    },
+    "3924": {
+        "id": 3924,
+        "key": "3924",
+        "name": "Flesheater",
+		"title": "No need to sharpen after use"
+    }
+
+}

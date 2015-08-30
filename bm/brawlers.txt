@@ -1,0 +1,87 @@
+{
+    "3611": {
+        "id": 3611,
+        "key": "3611",
+        "name": "Razorfin",
+		"title": "Melee: Champion pursuer"
+    },
+    "3612": {
+        "id": 3612,
+        "key": "3612",
+        "name": "Ironback",
+		"title": "Melee: Tanky siege"
+    },
+    "3613": {
+        "id": 3613,
+        "key": "3613",
+        "name": "Plundercrab",
+		"title": "Ranged: Champion harass"
+    },
+    "3614": {
+        "id": 3614,
+        "key": "3614",
+        "name": "Ocklepod",
+		"title": "Ranged: Support utility"
+    },
+    "0": {
+        "id": 0,
+        "key": "0",
+        "name": "None",
+		"title": "Nothing Bought"
+    },
+	"3615": {
+        "id": 3615,
+        "key": "3615",
+        "name": "Mercenary Upgrade 1",
+		"title": "First Level Upgrade"
+    },
+    "3616": {
+        "id": 3616,
+        "key": "3616",
+        "name": "Mercenary Upgrade 2",
+		"title": "Second Level Upgrade"
+    },
+    "3617": {
+        "id": 3617,
+        "key": "3617",
+        "name": "Mercenary Upgrade 3",
+		"title": "Third Level Upgrade"
+    },
+    "3621": {
+        "id": 3621,
+        "key": "3621",
+        "name": "Offense Upgrade 1",
+		"title": "+10 Attack Damage"
+    },
+    "3622": {
+        "id": 3622,
+        "key": "3622",
+        "name": "Offense Upgrade 2",
+		"title": "+20 Attack Damage"
+    },
+	"3623": {
+        "id": 3623,
+        "key": "3623",
+        "name": "Offense Upgrade 3",
+		"title": "+30 Attack Damage"
+    },
+    "3624": {
+        "id": 3624,
+        "key": "3624",
+        "name": "Defense Upgrade 1",
+		"title": "+100 HP"
+    },
+    "3625": {
+        "id": 3625,
+        "key": "3625",
+        "name": "Defense Upgrade 2",
+		"title": "+200 HP"
+    },
+	 "3626": {
+        "id": 3626,
+        "key": "3626",
+        "name": "Defense Upgrade 3",
+		"title": "+300 HP"
+    }
+
+}

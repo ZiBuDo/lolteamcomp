@@ -1,0 +1,1 @@
+nohup php mbr.php & nohup php meune.php & nohup php meuw.php & nohup php mkr.php & nohup php mlan.php & nohup php mlas.php & nohup php mna.php & nohup php moce.php & nohup php mru.php & nohup php mtr.php
